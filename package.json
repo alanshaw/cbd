@@ -1,0 +1,19 @@
+{
+  "name": "cbd",
+  "version": "0.0.0",
+  "description": "Callback default. Return a noop function for when no callback function has been passed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "keywords": [
+    "callback",
+    "default",
+    "noop"
+  ],
+  "author": "Alan Shaw",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "~2.1.0"
+  }
+}

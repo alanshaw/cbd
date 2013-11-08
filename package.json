@@ -1,6 +1,6 @@
 {
   "name": "cbd",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Callback default. Return a noop function for when no callback function has been passed.",
   "main": "index.js",
   "scripts": {

@@ -12,6 +12,7 @@
     "noop"
   ],
   "author": "Alan Shaw",
+  "repository": "https://github.com/alanshaw/cbd.git",
   "license": "MIT",
   "devDependencies": {
     "tape": "~2.1.0"

@@ -1,4 +1,4 @@
-cbd [![devDependency Status](https://david-dm.org/alanshaw/cbd/dev-status.png)](https://david-dm.org/alanshaw/cbd#info=devDependencies)
+cbd [![Build Status](https://travis-ci.org/alanshaw/cbd.png?branch=master)](https://travis-ci.org/alanshaw/cbd) [![devDependency Status](https://david-dm.org/alanshaw/cbd/dev-status.png)](https://david-dm.org/alanshaw/cbd#info=devDependencies)
 ===
 For functions with optional callbacks.
 
